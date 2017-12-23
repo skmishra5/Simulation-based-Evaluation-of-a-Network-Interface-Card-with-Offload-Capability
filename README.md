@@ -4,4 +4,4 @@ A jarfile(package) has to be made for all the classes before running.
 
 Running Simulator
 ------------------
-java -jar <jar_name> <value of arrival rate>
+java -jar [jar name] [value of arrival rate]
